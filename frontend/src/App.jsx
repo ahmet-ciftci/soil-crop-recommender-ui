@@ -136,7 +136,6 @@ function App() {
         transition={{ delay: 0.8 }}
         className="max-w-6xl mx-auto mt-12 text-center text-emerald-100/30 text-xs flex flex-col gap-1"
       >
-        <p>Implementation by author</p>
         <p>Powered by Machine Learning • 47 Crop Classes • Built with 🌱</p>
       </motion.footer>
     </div>
